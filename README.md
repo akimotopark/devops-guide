@@ -1947,21 +1947,10 @@ receivers:
       -
 ```
 
-Claude Opus 4.6
-
-continue
-
-![](https://outlier-images.s3.us-west-2.amazonaws.com/claude-opus-4-6.svg)
-
-Thought Processexpand
-
-# 🎯 DevOps Best Practices Implementation Guide（續）
-
----
 
 ## 🟣 Phase 6: Monitoring & Observability（續）
 
-### Alertmanager Configuration（續）
+### Alertmanager Configuration
 
 yaml
 
