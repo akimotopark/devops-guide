@@ -1948,14 +1948,14 @@ receivers:
 ```
 
 
-## 🟣 Phase 6: Monitoring & Observability（續）
+## 🟣 Phase 6: Monitoring & Observability
 
 ### Alertmanager Configuration
 
 yaml
 
 ```yaml
-# monitoring/alertmanager/alertmanager.yml（續）
+# monitoring/alertmanager/alertmanager.yml
 # ============================================
 # 📢 Alertmanager Configuration
 # ============================================
